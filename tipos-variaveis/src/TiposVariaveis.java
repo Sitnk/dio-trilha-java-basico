@@ -1,5 +1,6 @@
-public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
+public class TiposVariaveis {
+  public static void main(String[] args) {
+    int modulo = 10 % 4;
+    System.out.println(modulo);
+  }
 }
